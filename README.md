@@ -1,9 +1,9 @@
 - Hi, I’m @benmellin !
 - I graduated with a degree in biology and Premedicine from Carleton College in 2022.
 - I'm interested in computational biology related to healthcare and medicine.
-- I have experience coding in python, and basic skills in java and R.
+- I'm have experience programming in Python, with a background in building deep learning networks using PyTorch.
+- I'm currently building basic programming skills in R and in Unix command line.
 - I have taken classes in data structures, statistics, and calculus through calculus 3.
-- I also have experience with neural networks and machine learning.
 - My email is benmellin1@gmail.com.
 - Check out my work!
 <!---
